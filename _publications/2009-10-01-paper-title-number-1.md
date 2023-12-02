@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Query Performance Prediction through Retrieval Coherency"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'ECIR 2021'
+paperurl: 'https://drive.google.com/file/d/1chU5jOCVj8nnxaLO-jF6q6MOPfv0AYw5/view?usp=sharing'
+citation: 'Negar Arabzadeh, Amin Bigdeli, Morteza Zihayat, Ebrahim Bagheri. &quot; Query Performance Prediction through Retrieval Coherency. In 43rd European Conference on IR Research (ECIR 2021).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://drive.google.com/file/d/1chU5jOCVj8nnxaLO-jF6q6MOPfv0AYw5/view?usp=sharing)https://drive.google.com/file/d/1chU5jOCVj8nnxaLO-jF6q6MOPfv0AYw5/view?usp=sharing)
